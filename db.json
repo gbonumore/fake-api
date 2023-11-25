@@ -1,4 +1,5 @@
-[
+{
+  "items": [
   {
     "label": "YbrQms",
     "path": "/path/to/file1"
@@ -991,4 +992,5 @@
     "label": "ffRQfM",
     "path": "/path/to/file248"
   }
-]
+  ]
+}
